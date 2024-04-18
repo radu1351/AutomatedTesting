@@ -1,3 +1,5 @@
-ro\ase\tas\cucumber\AddProductToCartSteps.class
 ro\ase\tas\cucumber\CucumberTestRunner.class
+ro\ase\tas\cucumber\AddProductToCartSteps.class
+ro\ase\tas\cucumber\SearchProductSteps.class
 ro\ase\tas\cucumber\FilterProductsSteps.class
+ro\ase\tas\cucumber\SortProductsSteps.class

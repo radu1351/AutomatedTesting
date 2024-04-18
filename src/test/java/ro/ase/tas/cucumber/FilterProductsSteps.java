@@ -33,7 +33,6 @@ public class FilterProductsSteps {
     public void i_count_how_many_mens_parfumes_are_in_the_catalog() throws InterruptedException {
         // Verificați că numai produsele disponibile sunt afișate în catalog
         totalNumberOfMensParfumesDisplayed = driver.findElements(By.xpath("//div[@class='card-wrapper product-card-wrapper underline-links-hover']")).size();
-        System.out.println(totalNumberOfMensParfumesDisplayed);
     }
 
     @When("I navigate to all parfumes catalog")
